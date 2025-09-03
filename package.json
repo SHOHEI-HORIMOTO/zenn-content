@@ -1,0 +1,15 @@
+{
+  "name": "downloads",
+  "version": "1.0.0",
+  "main": "step3_scrape_unit_view.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "zenn-cli": "^0.2.3"
+  }
+}
