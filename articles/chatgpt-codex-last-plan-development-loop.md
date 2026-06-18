@@ -3,7 +3,7 @@ title: "ChatGPTをPlanner、CodexをExecutorにして開発ループを回す"
 emoji: "🔁"
 type: "tech"
 topics: ["chatgpt", "codex", "python", "unity", "ai"]
-published: false
+published: true
 ---
 
 ## はじめに
